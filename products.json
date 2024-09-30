@@ -1,0 +1,43 @@
+[
+    {
+        "image": "products/01.png",
+        "title": "Product Title",
+        "description": "Lorem ipsum dolor sit amet consectetur",
+        "price": "9.99"
+    },
+
+    {
+        "image": "products/02.png",
+        "title": "Product Title",
+        "description": "Lorem ipsum dolor sit amet consectetur",
+        "price": "9.99"
+    },
+
+    {
+        "image": "products/03.png",
+        "title": "Product Title",
+        "description": "Lorem ipsum dolor sit amet consectetur",
+        "price": "9.99"
+    },
+
+    {
+        "image": "products/04.png",
+        "title": "Product Title",
+        "description": "Lorem ipsum dolor sit amet consectetur",
+        "price": "9.99"
+    },
+
+    {
+        "image": "products/05.png",
+        "title": "Product Title",
+        "description": "Lorem ipsum dolor sit amet consectetur",
+        "price": "9.99"
+    },
+
+    {
+        "image": "products/06.png",
+        "title": "Product Title",
+        "description": "Lorem ipsum dolor sit amet consectetur",
+        "price": "9.99"
+    }
+]
